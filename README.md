@@ -1,3 +1,4 @@
 # Tik-Tak-Toe
-Console Application Code/n
+Console Application Code.
+
 Famous game of the decade
